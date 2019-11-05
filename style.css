@@ -36,9 +36,8 @@ h1 {
     color: white;
   }
 
-  @media only screen and (max-width: 480px) {
-    #customers th {
-        padding-top: 24px;
-        padding-bottom: 24px;
+  @media only screen and (max-width: 460px) {
+    body {
+        background-color: black;
     }
   }
