@@ -35,3 +35,10 @@ h1 {
     background-color: #4CAF50;
     color: white;
   }
+
+  @media only screen and (max-width: 480px) {
+    #customers th {
+        padding-top: 24px;
+        padding-bottom: 24px;
+    }
+  }
