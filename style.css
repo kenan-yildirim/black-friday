@@ -13,10 +13,6 @@ h1 {
     color:blueviolet;
 }
 
-div {
-    text-align: center;
-}
-
 #customers {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
